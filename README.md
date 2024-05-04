@@ -2,8 +2,8 @@
 
 In this project, I got to practice the following:
 
-1.Writing tests
-2.Lifecycle methods
+1. Writing tests
+2. Lifecycle methods
 3.Parameterized tests with @ValueSource
 4.Parameterized tests with @CsvSource
 5.Parameterized tests with @CsvFileSource
