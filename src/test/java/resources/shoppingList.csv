@@ -1,0 +1,5 @@
+name,price,quantity,unit of measurement,provider
+tomato, 1.5, 2, kg, grocery store
+carrot, 3, 5, kg, supermarket
+cabbage, 4.2, 2, kg, supermarket
+beetroot, 2.1, 4, kg, supermarket
