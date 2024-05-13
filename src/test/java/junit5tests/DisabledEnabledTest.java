@@ -27,7 +27,6 @@ public class DisabledEnabledTest {
     }
 
     @Test
-    //this one is not working, seeking help from course creators.
     @DisabledIfSystemProperty(named = "env", matches = "staging", disabledReason = "demo of @DisabledIfSystemProperty")
     void thirdTest(){
         System.out.println("Third test method");
